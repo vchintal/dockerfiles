@@ -8,5 +8,5 @@ docker run -d --name mysql -e MYSQL_ROOT_PASSWORD=dvadmin -p 3306:3306 vchintal/
 ```
 Username: dvuser
 Password: dvuser
-jdbc:mysql://localhost:3306/uscustomers
+JDBC URL: jdbc:mysql://localhost:3306/uscustomers
 ```
